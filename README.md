@@ -2,6 +2,8 @@
 
 A [bat](https://github.com/sharkdp/bat) theme for the ambitious.
 
+![theme screenshot](./screenshot.png)
+
 ## Installation
 
 1. Clone repository
@@ -25,7 +27,7 @@ A [bat](https://github.com/sharkdp/bat) theme for the ambitious.
 You can either set the theme by passing the the `--theme="Embark"` flag to any bat invocation.
 
 ```bash
-Cat --theme="Embark" README.md
+cat --theme="Embark" README.md
 ```
 
 Or, set it as the default theme in configuration.
