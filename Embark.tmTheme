@@ -628,7 +628,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#91DDFF</string>
+          <string>#D4BFFF</string>
           <key>fontStyle</key>
           <string>bold</string>
         </dict>
