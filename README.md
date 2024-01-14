@@ -39,3 +39,6 @@ echo "--theme=Embark" > $(bat --config-dir)/config
 ## Thanks to
 
 * [Catppuccin Bat Theme](https://github.com/catppuccin/bat)
+
+---
+See other available ports at https://embark-theme.github.io/
